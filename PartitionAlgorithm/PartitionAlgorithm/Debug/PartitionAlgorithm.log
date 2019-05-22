@@ -1,0 +1,5 @@
+﻿  Source.cpp
+c:\users\owner\source\repos\partitionalgorithm\partitionalgorithm\source.cpp(16): warning C4018: '<': signed/unsigned mismatch
+c:\users\owner\source\repos\partitionalgorithm\partitionalgorithm\source.cpp(24): warning C4018: '<': signed/unsigned mismatch
+c:\users\owner\source\repos\partitionalgorithm\partitionalgorithm\source.cpp(36): warning C4018: '<': signed/unsigned mismatch
+  PartitionAlgorithm.vcxproj -> C:\Users\Owner\source\repos\PartitionAlgorithm\Debug\PartitionAlgorithm.exe
