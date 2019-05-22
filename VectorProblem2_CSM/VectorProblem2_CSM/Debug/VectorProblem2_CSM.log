@@ -1,0 +1,6 @@
+﻿  Source1.cpp
+c:\users\corbi\desktop\vectorproblem2_csm\vectorproblem2_csm\source1.cpp(131): warning C4018: '<=': signed/unsigned mismatch
+c:\users\corbi\desktop\vectorproblem2_csm\vectorproblem2_csm\source1.cpp(134): warning C4018: '<=': signed/unsigned mismatch
+c:\users\corbi\desktop\vectorproblem2_csm\vectorproblem2_csm\source1.cpp(142): warning C4018: '<': signed/unsigned mismatch
+c:\users\corbi\desktop\vectorproblem2_csm\vectorproblem2_csm\source1.cpp(145): warning C4018: '<': signed/unsigned mismatch
+  VectorProblem2_CSM.vcxproj -> C:\Users\corbi\Desktop\VectorProblem2_CSM\Debug\VectorProblem2_CSM.exe
