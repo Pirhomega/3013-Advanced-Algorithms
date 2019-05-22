@@ -1,0 +1,6 @@
+﻿  BST.cpp
+c:\users\bo119labstudent\documents\binary_tree_program\binary_tree_program\bst.cpp(319): warning C4018: '>': signed/unsigned mismatch
+c:\users\bo119labstudent\documents\binary_tree_program\binary_tree_program\bst.cpp(319): warning C4018: '<': signed/unsigned mismatch
+c:\users\bo119labstudent\documents\binary_tree_program\binary_tree_program\bst.cpp(367): warning C4018: '<': signed/unsigned mismatch
+  Binary_Tree_Program.vcxproj -> C:\Users\BO119LabStudent\Documents\Binary_Tree_Program\Debug\Binary_Tree_Program.exe
+  Binary_Tree_Program.vcxproj -> C:\Users\BO119LabStudent\Documents\Binary_Tree_Program\Debug\Binary_Tree_Program.pdb (Partial PDB)
